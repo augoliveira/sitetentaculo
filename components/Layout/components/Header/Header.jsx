@@ -25,7 +25,7 @@ export default function Header() {
                 <i className="fa fa-bars"></i>
               </button>
               <a className="navbar-brand" href="index.html">
-                <img src="images/Tentáculo-logo.png" className="logo" alt="" />
+              <img src="/images/Tentáculo-logo.png "/>
               </a>
             </div>
 
@@ -46,7 +46,7 @@ export default function Header() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link href="/our-services">
+                  <Link href="/Servico">
                     <a className="nav-link">SERVIÇOS/PRODUTOS</a>
                   </Link>
                 </li>

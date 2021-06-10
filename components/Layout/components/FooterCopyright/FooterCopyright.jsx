@@ -5,7 +5,7 @@ export default function FooterCopyright() {
     <div className="footer-copyright">
       <p className="footer-company">
         Todos Direitos Reservados. &copy; 2021 <a href="#">Tentáculo</a> Desenvolvido por :
-        <a href="https://balaiodacriacao.com.br/">Balaia da criação</a> <img src="images/icon.png" alt="Logo tentáculo" />
+        <a href="https://balaiodacriacao.com.br/">Balaio da criação</a> <img src="images/icon.png" alt="Logo tentáculo" />
       </p>
     </div>
   );
