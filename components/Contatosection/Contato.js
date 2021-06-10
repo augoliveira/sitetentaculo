@@ -26,7 +26,7 @@ export default function Sobre() {
                       id="inputGroup1_1"
                       class="form-control h-100 g-color-white g-placeholder-inherit g-bg-transparent g-bg-transparent--focus g-brd-white g-rounded-10 g-px-20 g-py-10"
                       type="text"
-                      placeholder="Name"
+                      placeholder="Nome"
                     ></input>
                   </div>
 
@@ -35,7 +35,7 @@ export default function Sobre() {
                       id="inputGroup1_2"
                       class="form-control h-100 g-color-white g-placeholder-inherit g-bg-transparent g-bg-transparent--focus g-brd-white g-rounded-10 g-px-20 g-py-10"
                       type="email"
-                      placeholder="Email *"
+                      placeholder="E-mail *"
                     ></input>
                   </div>
                 </div>
@@ -46,7 +46,7 @@ export default function Sobre() {
                       id="inputGroup1_3"
                       class="form-control g-resize-none g-color-white g-placeholder-inherit g-bg-transparent g-bg-transparent--focus g-brd-white g-rounded-10 g-px-20 g-py-10"
                       rows="5"
-                      placeholder="Menssagem"
+                      placeholder="Mensagem"
                     ></textarea>
                   </div>
 

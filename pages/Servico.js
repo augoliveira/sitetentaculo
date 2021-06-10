@@ -32,14 +32,15 @@ export default function Servico() {
 
           <div class="col-lg-4 pt-4 pt-lg-0 content d-flex flex-column justify-content-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
             <div class="section-title">
-              <h2>O Tentáculo</h2>
+              <h2>OTentáculo</h2>
               <h5>é uma plataforma de serviços integrados, que tem por objetivo aproximar a gestão de serviços ao negócio.</h5>
               <p>Em um mundo corporativo cada vez mais competitivo, a otimização de processos, centralização das demandas e integração dos setores é fundamental para tomada de decisões, ganho de produtividade e entrega de resultados.
-OTentáculo por meio de módulos simplificados, centraliza o fluxo de demandas, organiza, gerencia e controla informações, sempre priorizando a transparência e a agilidade nos resultados. </p>
-            </div>
-            <p class="fst-italic">
+              OTentáculo por meio de módulos simplificados, centraliza o fluxo de demandas, organiza, gerencia e controla informações, sempre priorizando a transparência e a agilidade nos resultados. </p>
+            
+            <h6>
               Com a plataforma, todos os usuários poderão solicitar serviços, analisar documentos, realizar checklists e formalizar ocorrências internas.
-            </p>
+            </h6>
+            </div>
             <ul>
               <li>
                 <i class="bx bx-store-alt"></i>

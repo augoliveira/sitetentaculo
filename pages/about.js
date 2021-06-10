@@ -19,9 +19,10 @@ export default function About() {
                 NOSSA HISTORIA
               </h2>
               <p>
-                Somos uma empresa com grande experiência em processos de postos de combustíveis. Trabalhamos há xxx anos no mercado com a mais alta tecnologia para integrar soluções de chamados, checklist, documentação e ocorrências em uma única plataforma.
-                Nosso propósito é fornecer as melhores soluções processuais para a gestão do seu negócio e com isso aumentar seus resultados. Tudo isso em um sistema simples e intuitivo;
-                Temos uma equipe formada por profissionais multidisciplinares e com expertise de mais de xxx anos de atuação com o apoio das maiores empresas de automação e um relacionamento sólido e duradouro com nossos clientes e parceiros.
+              Somos uma empresa com grande experiência em processos de postos de combustíveis. Trabalhamos há xxx anos no mercado com a mais alta tecnologia para integrar soluções de chamados, checklist, documentação e ocorrências em uma única plataforma. 
+              Nosso propósito é fornecer as melhores soluções processuais para a gestão do seu negócio e com isso aumentar seus resultados. Tudo isso em um sistema simples e intuitivo.
+              Temos uma equipe formada por profissionais multidisciplinares e com expertise de mais de xxx anos de atuação com o apoio das maiores empresas de automação e um relacionamento sólido e duradouro com nossos clientes e parceiros.
+
               </p>
             </div>
           </div>

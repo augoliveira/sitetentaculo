@@ -22,7 +22,7 @@ export default function Servicos() {
                 <img src="/images/icone1.png"></img>
               </div>
               <h4 class="mb-4">Captura de documentos</h4>
-              <p>Mande tudo para a Tentáculo. Envie ou importe seus arquivos. Ou ainda: crie novos documentos em PDF.</p>
+              <p>Mande tudo para o tentáculo. Envie ou importe seus arquivos. Ou ainda: crie novos documentos em PDF.</p>
             </div>
           </div>
 
@@ -32,7 +32,7 @@ export default function Servicos() {
                 <img src="/images/icone2.png"></img>
               </div>
               <h4 class="mb-4">Organização</h4>
-              <p>dentifique seus documentos com um sistema intuitivo de índices. É bem mais preciso e evita confusões.</p>
+              <p>Identifique seus documentos com um sistema intuitivo de índices. É bem mais preciso e evita confusões.</p>
             </div>
           </div>
           
