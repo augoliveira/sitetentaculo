@@ -2542,6 +2542,11 @@
     background: url("/images/bg-serviços.jpg") top right;    background-color: #e7f8f6;
     padding: 30px 0;
   }
+  .section-bghero {
+    
+    background: url("/images/bg-Hero.jpg") top right;    background-color: #e7f8f6;
+    padding: 30px 0;
+  }
   
   .section-title {
     

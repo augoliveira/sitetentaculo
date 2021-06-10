@@ -16,8 +16,9 @@ class MyDocument extends Document {
           <meta name="viewport" content="width=device-width, initial-scale=1" />
 
           <title>Tentáculo | software para empresas</title>
-          <meta name="keywords" content="" />
-          <meta name="description" content="" />
+          <meta name="keywords" content="O Tentáculo é uma plataforma de serviços integrados, que tem por objetivo aproximar a gestão de serviços ao negócio." />
+          <meta name="description" content="Redução de custos, Controle das atividades, Satisfação dos usuários, Aumento de produtividade, Indicadores de Performance
+          Comunicação setorial eficiente, Suporte operacional centralizado, Ganho de qualidade nos serviços prestados" />
           <meta name="author" content="" />
 
           <link

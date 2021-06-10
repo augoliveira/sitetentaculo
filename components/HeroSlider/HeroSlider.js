@@ -5,7 +5,7 @@ export default function HeroSlider() {
     <>
     
 
-    <div id="about-section" class="g-overflow-hidden">
+    <div id="about-section" class="about section-bghero">
         <div class="container g-pt-100">
             <div class="g-pos-rel">
               <div class="row justify-content-between">
@@ -18,9 +18,7 @@ export default function HeroSlider() {
                 </div>
               </div>
 
-              <div class="col-lg-6 g-pos-abs--lg g-top-0--lg g-right-0--lg g-mb-30">
-                <img class="img-fluid w-100" src="../images/Tentáculo-site-Home.png" alt="Image Description"/>
-              </div>
+             
             </div>
             
           </div>

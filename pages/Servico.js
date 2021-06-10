@@ -125,9 +125,6 @@ OTentáculo por meio de módulos simplificados, centraliza o fluxo de demandas, 
 
       <section id="about" class="about section-bgserviços">
       <div class="container aos-init aos-animate" data-aos="fade-up">
-      
-
-        
         </div>
 
         <div class="row">
