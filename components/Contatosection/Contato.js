@@ -68,7 +68,7 @@ export default function Sobre() {
         <div class="col-md-6 col-lg-6 g-overflow-hidden">
           <img
             class="img-fluid slideInUp u-in-viewport"
-            src="images/Tentáculo-mobile.png"
+            src="/images/Tent195161culo-mobile.webp"
             alt="Image description"
           />
         </div>

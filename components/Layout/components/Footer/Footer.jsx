@@ -10,7 +10,7 @@ export default function Footer() {
             <div className="row">
               <div className="col-lg-4 col-md-12 col-sm-12">
                 <div className="footer-widget">
-                  <h4>Sobre a Tentáculo</h4>
+                  <h4>Sobre a OTentáculo</h4>
                   <p>
                     Tentáculo é um software para empresas que utilizam
                     checklists e planos de ação em auditorias ou inspeções de
@@ -38,7 +38,7 @@ export default function Footer() {
               </div>
               <div className="col-lg-4 col-md-12 col-sm-12">
                 <div className="footer-link">
-                  <h4>Paginas</h4>
+                  <h4>Menu</h4>
                   <ul>
                     <li>
                       <a href="#">Home</a>

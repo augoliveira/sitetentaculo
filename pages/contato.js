@@ -49,7 +49,7 @@ export default function contato() {
                         <p class="mb-4 pb-3"><a href="index.html" class="text-white">Voltar para Home <i class="mdi mdi-home"></i></a></p>
                       </div>
                       <div class="account_box bg-gradient">
-                        <img src="images/logo.png" alt="" class="img-fluid mx-auto d-block" style={{ height: `32px;` }} />
+                        <img src="images/logo.png" alt="contato" class="img-fluid mx-auto d-block" style={{ height: `32px;` }} />
                         <form>
                           <div class="col-lg-12 mt-3">
                             <label class="text-white">Email</label>

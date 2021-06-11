@@ -2525,7 +2525,7 @@
   
   .section-bg {
     
-    background: url("/images/bg.png") top right;    background-color: #e7f8f6;
+    background: url("/images/bg.webp") top right;    background-color: #e7f8f6;
     padding: 160px 0;
   }
   .section-bgserviços {
@@ -2535,7 +2535,7 @@
   }
   .section-bghero {
     
-    background: url("/images/bg-Hero.jpg") top right;    background-color: #e7f8f6;
+    background: url("/images/bg-Hero.webp") top right;    background-color: #e7f8f6;
     background-size: cover;
     padding: 30px 0;
   }
