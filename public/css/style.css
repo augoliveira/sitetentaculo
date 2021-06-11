@@ -683,20 +683,10 @@
 }
 /*------------------------------------------------------------------ Slider -------------------------------------------------------------------*/
  .cover-slides{
-     height: 100vh;
+     height: 75vh;
 }
  .slides-navigation a {
-     background: #660066;
-     position: absolute;
-     height: 70px;
-     width: 70px;
-     top: 50%;
-     font-size: 20px;
-     display: block;
-     color: #fff;
-     line-height: 90px;
-     text-align: center;
-     transition: all .3s ease-in-out;
+     
 }
  .slides-navigation a i{
      font-size: 40px;
@@ -718,16 +708,16 @@
      height: 100%;
 }
  .overlay-background {
-     background: #333;
+  background: linear-gradient(to right, #660066, #010777);
      position: absolute;
      height: 100%;
      width: 100%;
      left: 0;
      top: 0;
-     opacity: 0.5;
+     opacity: 0.2;
 }
  .cover-slides h1{
-     font-family: 'Montserrat', sans-serif;
+     font-family: 'roboto', sans-serif;
      font-weight: 500;
      font-size: 64px;
      color: #fff;
@@ -2528,6 +2518,7 @@
   /*--------------------------------------------------------------
   # Sections General
   --------------------------------------------------------------*/
+  
   section {
     padding: 50px 0;
   }
@@ -2539,12 +2530,13 @@
   }
   .section-bgserviços {
     
-    background: url("/images/bg-serviços.jpg") top right;    background-color: #e7f8f6;
+    background: url("/images/bg-serviços.webp") top right;    background-color: #e7f8f6;
     padding: 30px 0;
   }
   .section-bghero {
     
     background: url("/images/bg-Hero.jpg") top right;    background-color: #e7f8f6;
+    background-size: cover;
     padding: 30px 0;
   }
   
@@ -2581,7 +2573,7 @@
   # Cta
   --------------------------------------------------------------*/
   .cta {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/public/images/bg.contato.png") fixed center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("./images/bg.contato.webp") fixed center center;
     background-size: cover;
     padding: 80px 0;
   }

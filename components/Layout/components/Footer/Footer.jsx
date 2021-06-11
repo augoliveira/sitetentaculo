@@ -59,14 +59,7 @@ export default function Footer() {
                 <div className="footer-link-contact">
                   <h4>Contatos</h4>
                   <ul>
-                    <li>
-                      <p>
-                        <i className="fas fa-map-marker-alt"> </i>Local:
-                        colocar endereço aqui <br />
-                        Brsília Distrito Federal,
-                        <br /> Cep: aqui{" "}
-                      </p>
-                    </li>
+                    
                     <li>
                       <p>
                         <i className="fas fa-phone-square"> </i>Tel:{" "}
@@ -76,8 +69,8 @@ export default function Footer() {
                     <li>
                       <p>
                         <i className="fas fa-envelope"> </i>Email:{" "}
-                        <a href="mailto:comercial@tantaculo.com.br">
-                        comercial@tantaculo.com.br
+                        <a href="mailto:comercial@otantaculo.com.br">
+                        comercial@otantaculo.com.br
                         </a>
                       </p>
                     </li>

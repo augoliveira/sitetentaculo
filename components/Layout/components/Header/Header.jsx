@@ -19,7 +19,7 @@ export default function Header() {
                             <a href="mailto:comercial@otentaculo.com.br">comercial@otentaculo.com.br</a>
                         </li>
                         <li class="list-inline-item">
-                            <a href="callto:1234565523">Ligue para nós agora:
+                            <a href="callto:61986257790">Ligue para nós agora:
                                 <span class="ml-2"> (61) 98625 7790</span>
                             </a>
                         </li>

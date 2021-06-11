@@ -138,14 +138,14 @@ export default function Servico() {
           <h2 class="g-font-size-36 g-color-white mb-0">
             <img src="/images/icon-Tentáculo.png" class="img-fluid" alt=""/> POR QUE OTENTÁCULO?</h2>
             <div class="features_list">
-                                    <p class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Redução de custos</p>
-                                    <p class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Controle das atividades</p>
-                                    <p class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Satisfação dos usuários</p>
-                                    <p class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Aumento de produtividade</p>
-                                    <p class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Indicadores de Performance</p>
-                                    <p class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Comunicação setorial eficiente</p>
-                                    <p class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Suporte operacional centralizado</p>
-                                    <p class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Ganho de qualidade nos serviços prestados</p>
+                                    <h4 class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Redução de custos</h4>
+                                    <h4 class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Controle das atividades</h4>
+                                    <h4 class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Satisfação dos usuários</h4>
+                                    <h4 class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Aumento de produtividade</h4>
+                                    <h4 class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Indicadores de Performance</h4>
+                                    <h4 class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Comunicação setorial eficiente</h4>
+                                    <h4 class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Suporte operacional centralizado</h4>
+                                    <h4 class="text-muted mb-2"><span><i class="fas fa-angle-double-right"></i></span> Ganho de qualidade nos serviços prestados</h4>
                                 </div>
         </div>
             <ul>

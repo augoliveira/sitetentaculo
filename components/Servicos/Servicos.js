@@ -9,7 +9,7 @@ export default function Servicos() {
             <div class="bg-white py-5 px-4 text-center box-shadow transition hover-bg-dark">
               <div class="mb-4">
               </div>
-              <h2 class="mb-4">SERVIÇOS &<br /> PRODUTOS</h2>
+              <h2 class="mb-4">SERVIÇOS & PRODUTOS</h2>
               <p>Um software de GED, ou seja, de Gerenciamento Eletrônico de Documentos, 
                 consiste em um sistema de armazenamento, organização e administração de documentos digitalizados.
                  </p>
