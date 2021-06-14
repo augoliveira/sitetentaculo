@@ -712,7 +712,7 @@
  .cover-slides h1{
      font-family: 'roboto', sans-serif;
      font-weight: 500;
-     font-size: 64px;
+     font-size: 40px;
      color: #fff;
 }
  .cover-slides p{
@@ -46660,9 +46660,8 @@ blockquote {
 
 blockquote::before {
   position: absolute;
-  content: "\f10d";
-  font-family: "FontAwesome";
-  font-size: 100px;
+  
+  
   color: rgba(134, 195, 58, 0.3);
   top: 50%;
   left: 50%;

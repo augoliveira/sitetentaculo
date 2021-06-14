@@ -14,7 +14,7 @@ export default function HeroSlider() {
               <div className="col-md-12">
                 <h1 className="m-b-20">
                   <strong>
-                  Gerencie seus <br/>Documentos <br/>de um modo <br/>eficiente
+                  Gerencie seus Documentos <br/>de um modo eficiente
                   </strong>
                 </h1>
                 <p className="m-b-40">
@@ -37,7 +37,7 @@ export default function HeroSlider() {
               <div className="col-md-12">
                 <h1 className="m-b-20">
                   <strong>
-                  Livre-se de tarefas<br/> repetitivas e <br/>desnecessárias.
+                  Livre-se de tarefas repetitivas<br/> e desnecessárias.
                   </strong>
                 </h1>
                 <p className="m-b-40">

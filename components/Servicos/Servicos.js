@@ -6,7 +6,7 @@ export default function Servicos() {
       <div class="container">
       <div className="row">
       <div class="col-md-12 px-0">
-        <div class="service-block-inner"><h1 class="noo-sh-title">SERVIÇOS <span>  & PRODUTOS</span></h1><blockquote class="blockquote text-center"><h5 class="col-md-11 px-0">Um software de GED, ou seja, de Gerenciamento Eletrônico de Documentos, consiste em um sistema de armazenamento,  <cite title="Source Title"> organização e administração de documentos digitalizados.</cite></h5></blockquote></div></div>
+        <div class="service-block-inner"><h1 class="noo-sh-title">SERVIÇOS <span>  / PRODUTOS</span></h1><blockquote class="blockquote text-center"><h5 class="col-md-11 px-0">Um software de GED, ou seja, de Gerenciamento Eletrônico de Documentos, consiste em um sistema de armazenamento,  <cite title="Source Title"> organização e administração de documentos digitalizados.</cite></h5></blockquote></div></div>
         
           <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
             <div class="bg-white py-5 px-4 text-center box-shadow transition hover-bg-dark active">
