@@ -53,7 +53,7 @@ export default function Servicos() {
                 <img src="/images/icone5.png"></img>
               </div>
               <h4 class="mb-4">Ferramentas de automação</h4>
-              <p>Livre-se de tarefas repetitivas e desnecessárias. Simplifique o básico para focar no principal: seu negócio.</p>
+              <p>Livre-se de tarefas repetitivas e desnecessárias ganhe agilidade. Simplifique o básico para focar no principal: seu negócio.</p>
             </div>
           </div>
         </div>

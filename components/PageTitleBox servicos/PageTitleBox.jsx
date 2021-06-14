@@ -6,7 +6,7 @@ export default function PageTitleBox() {
       <div className="container">
         <div className="row">
           <div className="col-lg-12">
-            <h2>Serviços/produtos</h2>
+            <h2>SERVIÇOS/PRODUTOS</h2>
           </div>
         </div>
       </div>

@@ -34,7 +34,7 @@
 -------------------------------------------------------------------*/
  body {
      color: #666666;
-     font-size: 15px;
+     font-size: 16px;
      font-family: 'Quattrocento Sans', sans-serif;
      line-height: 1.80857;
 }
@@ -163,7 +163,7 @@
 /*------------------------------------------------------------------ HEADER -------------------------------------------------------------------*/
 
 .main-top{
-     background: #010101;
+     background: #e0e0e0;
      padding: 10px 0px;
 }
  .custom-select-box{
@@ -728,7 +728,7 @@
      border: 2px solid #660066;
 }
  .cover-slides p a{
-     font-size: 24px;
+     font-size: 18px;
      color: #ffffff;
      border: none;
      text-transform: uppercase;
@@ -44567,6 +44567,7 @@ h6, .h6 {
 /* Button style */
 .btn {
   font-size: 15px;
+  color: #00ad42;
   font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
   padding: 15.5px 28px;
@@ -48206,7 +48207,7 @@ button:focus {
 }
 
 .navigation .navbar .nav-item:last-child {
-  padding: 28px 0 28px 30px;
+  padding: 28px 0 28px 0px;
 }
 
 @media (max-width: 991px) {

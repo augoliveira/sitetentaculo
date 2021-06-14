@@ -62,7 +62,7 @@ export default function contato() {
                           <div class="col-lg-12 mt-3">
                             <div class="custom-control custom-checkbox">
                               <input type="checkbox" class="custom-control-input" id="customCheck1" />
-                              <label class="custom-control-label text-white" for="customCheck1">Lebrar minha senha</label>
+                              <label class="custom-control-label text-white" for="customCheck1">Lembrar minha senha</label>
                             </div>
                           </div>
                           <div class="col-lg-12">
