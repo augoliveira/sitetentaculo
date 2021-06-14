@@ -12,7 +12,7 @@ export default function Footer() {
                 <div className="footer-widget">
                   <h4>Sobre a OTentáculo</h4>
                   <p>
-                    Tentáculo é um software para empresas que utilizam
+                    OTentáculo é um software para empresas que utilizam
                     checklists e planos de ação em auditorias ou inspeções de
                     processos, lojas, fábricas, veículos, pessoas, equipamentos
                     e ambientes.
