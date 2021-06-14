@@ -14,7 +14,7 @@ export default function HeroSlider() {
               <div className="col-md-12">
                 <h1 className="m-b-20">
                   <strong>
-                  GERENCIE SEUS <br/>DOCUMENTOS <br/>DE UM MODO <br/>EFICIENTE
+                  Gerencie seus <br/>Documentos <br/>de um modo <br/>eficiente
                   </strong>
                 </h1>
                 <p className="m-b-40">
@@ -22,8 +22,8 @@ export default function HeroSlider() {
                   <br /> SUA EMPRESA COM A OTENTÁCULO.
                 </p>
                 <p>
-                  <a className="btn hvr-hover" href="#">
-                    Contato
+                  <a className="btn hvr-hover" href="/serviços">
+                    Saiba mais
                   </a>
                 </p>
               </div>
@@ -44,7 +44,7 @@ export default function HeroSlider() {
                 Simplifique o básico para focar no principal: seu negócio.
                 </p>
                 <p>
-                  <a className="btn hvr-hover" href="#">
+                  <a className="btn hvr-hover" href="/contato">
                     Contratar
                   </a>
                 </p>

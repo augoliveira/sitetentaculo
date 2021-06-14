@@ -10,30 +10,6 @@ export default function Header() {
     <>
       <TopBar />
       <header className="main-header">
-      <div class="top-header">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <ul class="list-inline text-lg-right text-center">
-                        <li class="list-inline-item">
-                            <a href="mailto:comercial@otentaculo.com.br">comercial@otentaculo.com.br</a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a href="callto:61986257790">Ligue para nós agora:
-                                <span class="ml-2"> (61) 98625 7790</span>
-                            </a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a href="#" id="searchOpen">
-                                <i class="ti-search"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-
       <div class="navigation">
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">

@@ -69,7 +69,7 @@ export default function contato() {
                             <button class="btn btn-custom w-100 mt-3">Entrar</button>
                           </div>
                           <div>
-                            <p class="mb-0 text-center mt-3"><a href="forgot.html" class="text-white font-weight-bold">Esqueceu sua senha ?</a></p>
+                            <p class="mb-0 text-center mt-3"><a href="forgot.html" class="text-white font-weight-bold">Esquecir minha senha ?</a></p>
                           </div>
                         </form>
                       </div>

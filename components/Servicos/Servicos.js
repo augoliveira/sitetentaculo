@@ -4,29 +4,21 @@ export default function Servicos() {
   return (
     <section class="translate-top">
       <div class="container">
-        <div class="row">
-          <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
-            <div class="bg-white py-5 px-4 text-center box-shadow transition hover-bg-dark">
-              <div class="mb-4">
-              </div>
-              <h2 class="mb-4">SERVIÇOS & PRODUTOS</h2>
-              <p>Um software de GED, ou seja, de Gerenciamento Eletrônico de Documentos, 
-                consiste em um sistema de armazenamento, organização e administração de documentos digitalizados.
-                 </p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+      <div className="row">
+      <div class="col-md-12 px-0">
+        <div class="service-block-inner"><h1 class="noo-sh-title">SERVIÇOS <span>  & PRODUTOS</span></h1><blockquote class="blockquote text-center"><h5 class="col-md-11 px-0">Um software de GED, ou seja, de Gerenciamento Eletrônico de Documentos, consiste em um sistema de armazenamento,  <cite title="Source Title"> organização e administração de documentos digitalizados.</cite></h5></blockquote></div></div>
+        
+          <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
             <div class="bg-white py-5 px-4 text-center box-shadow transition hover-bg-dark active">
               <div class="icon-bg mb-4 water-wave">
                 <img src="/images/icone1.png"></img>
               </div>
               <h4 class="mb-4">Captura de documentos</h4>
-              <p>Mande tudo para o tentáculo. Envie ou importe seus arquivos. Ou ainda: crie novos documentos em PDF.</p>
+              <p>Mande tudo para o Otentáculo. Envie ou importe seus arquivos. Ou ainda: crie novos documentos em PDF.</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+          <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
             <div class="bg-white py-5 px-4 text-center box-shadow transition hover-bg-dark">
               <div class="icon-bg mb-4 water-wave">
                 <img src="/images/icone2.png"></img>
@@ -66,6 +58,7 @@ export default function Servicos() {
           </div>
         </div>
       </div>
+      
     </section>
   );
 }

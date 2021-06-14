@@ -7,12 +7,6 @@ export default function PageTitleBox() {
         <div className="row">
           <div className="col-lg-12">
             <h2>Serviços/produtos</h2>
-            <ul className="breadcrumb">
-              <li className="breadcrumb-item">
-                <a href="#">HOME</a>
-              </li>
-              <li className="breadcrumb-item active">NOSSOS-SERVIÇOS</li>
-            </ul>
           </div>
         </div>
       </div>
